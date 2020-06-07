@@ -1,0 +1,35 @@
+{
+	"ui-title": {
+		"prefix": "ui-",
+		"body": [
+			"<ui-title>$1</ui-title>",
+			"$2"
+		],
+		"description": "ui-title"
+  },
+  "ui-card": {
+		"prefix": "ui-",
+		"body": [
+      "<ui-card title='$1'>",
+			"$2",
+      "</ui-card>"
+		],
+		"description": "ui-card"
+	},
+  "header-tabs": {
+		"prefix": "header-",
+		"body": [
+      "<header-tabs>",
+      "</header-tabs>"
+		],
+		"description": "header-tabs"
+	},
+  "batch-get-data": {
+		"prefix": "batch-",
+		"body": [
+      "<batch-get-data>",
+      "</batch-get-data>"
+		],
+		"description": "header-tabs"
+	}
+}
