@@ -1,6 +1,8 @@
 {
-  "name": "reform-spot-web-snippet",
-  "displayName": "reform-spot-web-snippet",
+  "publisher": "chensiyuan",
+  "repository": "https://github.com/heartOfblack/reform-spot-web-snippets",
+  "name": "reform-spot-web-plugin",
+  "displayName": "reform-spot-web-plugin",
   "description": "",
   "version": "0.0.1",
   "engines": {
